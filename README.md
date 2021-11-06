@@ -1,0 +1,1 @@
+# Repository with teams stats and analysis from data collected scrapping HLTV website
